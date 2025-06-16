@@ -14,6 +14,12 @@ const projects = [
     desc: "A React-based frontend application that connects with the ReqRes API to manage employee data. Features include user login, employee listing, editing, and deletion with a clean UI and smooth user experience.",
     tech: ["React"],
     code: "https://github.com/akashkumar7050/Employee-Wise.git",
+  },
+  {
+    title: "My portfolio",
+    desc: "A personal portfolio website built with React and Tailwind CSS. Showcases skills, projects, and a brief bio with animated, responsive UI for a professional web presence.",
+   tech: ["React", "Tailwind CSS", "Framer Motion", "React Icons"],
+    code: "https://github.com/akashkumar7050/myportfolio.git",
   }
 
 
