@@ -1,12 +1,53 @@
-# React + Vite
+# MyPortfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built using **React**, **Tailwind CSS**, and **Framer Motion**. This project showcases my skills, projects, and personal information in a visually appealing and interactive format.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✨ Smooth animations using **Framer Motion**
+- 📱 Fully responsive design for mobile, tablet, and desktop
+- 🎨 Modern UI built with **Tailwind CSS**
+- 🧑‍💻 Sections: About Me, Skills, Projects, and Contact
+- 🔗 Easy-to-navigate layout with clean routing
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React** – Frontend library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Framer Motion** – Animation library
+- **React Icons** – Icon library for modern UI
+
+---
+
+## 📸 Preview
+
+![Portfolio Screenshot](link-to-screenshot-if-any)
+
+---
+
+## 📁 Folder Structure
+
+myportfolio/
+├── public/
+│ └── images/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── App.jsx
+│ └── index.js
+├── tailwind.config.js
+└── package.json
+
+
+
+---
+
+## 📦 Getting Started
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/akashkumar7050/myportfolio.git
